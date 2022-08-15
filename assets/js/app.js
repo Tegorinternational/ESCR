@@ -1,11 +1,11 @@
 const data = [
   {
     id: 1,
+    getapplogo: "https://tegorinternational.github.io/ESCR/assets/imgs/headlogo.png",
     getappname: "Extra Spaces Remover tool",
     getappdesc: "Tegor International",
-    getappversion: "1.2.0",
-    getapplogo: "https://tegorinternational.github.io/ESCR/assets/imgs/headlogo.png"
-  }
+    getappversion: "1.2.0"
+      }
   ];
  data;
 const appInformation = myinfo => {
