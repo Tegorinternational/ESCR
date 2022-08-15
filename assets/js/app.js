@@ -4,7 +4,7 @@ const data = [
     getappname: "Extra Spaces Remover tool",
     getappdesc: "Tegor International",
     getappversion: "1.2.0",
-    getapplogo: "../imgs/headlogo.png"
+    getapplogo: "https://tegorinternational.github.io/ESCR/assets/imgs/headlogo.png"
   }
   ];
  data;
