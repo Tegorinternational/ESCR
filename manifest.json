@@ -8,7 +8,7 @@
   "version": "1.2.0", 
   "author": "Rurendra Tegor", 
   "description": "Extra Spaces Remover tool for Html,Css,js and more.",
-  "purpose": "maskable",
+  "purpose": "any maskable",
   "scope": "/ESCR/",
   "icons": [ 
     { 
@@ -39,3 +39,4 @@
       "src": "/ESCR/assets/imgs/512.png", 
       "sizes": "512x512", 
       "type": "image/png" } ]}
+
