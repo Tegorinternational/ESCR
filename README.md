@@ -16,11 +16,12 @@ https://tegorinternational.github.io/ESCR/
 Example:-
 _________________________________________________________
 
-InputCode: 
-     Hello Everyone,
-        This is a      input
-            code.
-OutPut:
+InputCode: <br/>
+     Hello Everyone,<br/>
+        This is a   <br/>   input
+          <br/>  code.
+______________________
+OutPut:<br/>
      Hello Everyone, This is a input code.
      
 ========================================================
